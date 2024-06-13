@@ -1,0 +1,7 @@
+torch==2.1.2
+torchvision
+diffusers==0.29.0
+transformers
+sentencepiece
+accelerate
+protobuf
